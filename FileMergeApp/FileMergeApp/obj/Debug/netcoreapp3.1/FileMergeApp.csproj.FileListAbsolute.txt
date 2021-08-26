@@ -1,0 +1,80 @@
+C:\Users\predr\source\repos\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.csprojAssemblyReference.cache
+C:\Users\predr\source\repos\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.AssemblyInfoInputs.cache
+C:\Users\predr\source\repos\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.AssemblyInfo.cs
+C:\Users\predr\source\repos\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.csproj.CoreCompileInputs.cache
+C:\Users\predr\source\repos\FileMergeApp\FileMergeApp\bin\Debug\netcoreapp3.1\FileMergeApp.deps.json
+C:\Users\predr\source\repos\FileMergeApp\FileMergeApp\bin\Debug\netcoreapp3.1\FileMergeApp.dll
+C:\Users\predr\source\repos\FileMergeApp\FileMergeApp\bin\Debug\netcoreapp3.1\FileMergeApp.pdb
+C:\Users\predr\source\repos\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.dll
+C:\Users\predr\source\repos\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.pdb
+C:\Users\predr\source\repos\FileMergeApp\FileMergeApp\bin\Debug\netcoreapp3.1\FileMergeApp.exe
+C:\Users\predr\source\repos\FileMergeApp\FileMergeApp\bin\Debug\netcoreapp3.1\FileMergeApp.runtimeconfig.json
+C:\Users\predr\source\repos\FileMergeApp\FileMergeApp\bin\Debug\netcoreapp3.1\FileMergeApp.runtimeconfig.dev.json
+C:\Users\predr\source\repos\FileMergeApp\FileMergeApp\bin\Debug\netcoreapp3.1\ICSharpCode.Decompiler.dll
+C:\Users\predr\source\repos\FileMergeApp\FileMergeApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\predr\source\repos\FileMergeApp\FileMergeApp\bin\Debug\netcoreapp3.1\System.Reflection.Metadata.dll
+C:\Users\predr\source\repos\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.csproj.CopyComplete
+C:\Users\predr\source\repos\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.genruntimeconfig.cache
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\bin\Debug\netcoreapp3.1\FileMergeApp.exe
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\bin\Debug\netcoreapp3.1\FileMergeApp.deps.json
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\bin\Debug\netcoreapp3.1\FileMergeApp.runtimeconfig.json
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\bin\Debug\netcoreapp3.1\FileMergeApp.runtimeconfig.dev.json
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\bin\Debug\netcoreapp3.1\FileMergeApp.dll
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\bin\Debug\netcoreapp3.1\FileMergeApp.pdb
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\bin\Debug\netcoreapp3.1\ICSharpCode.Decompiler.dll
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\bin\Debug\netcoreapp3.1\System.Reflection.Metadata.dll
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.AssemblyInfoInputs.cache
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.AssemblyInfo.cs
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.csproj.CoreCompileInputs.cache
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.csproj.CopyComplete
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.dll
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.pdb
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.genruntimeconfig.cache
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.Templates.aa.resources
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.Templates.ar.resources
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.Templates.bn.resources
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.Templates.chinese_SIMPLIFIED.resources
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.Templates.chinese_TRADITIONAL.resources
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.Templates.de.resources
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.Templates.en.resources
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.Templates.en_GB.resources
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.Templates.es.resources
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.Templates.fil.resources
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.Templates.fr.resources
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.Templates.he.resources
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.Templates.hi.resources
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.Templates.id.resources
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.Templates.it.resources
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.Templates.ja.resources
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.Templates.ko.resources
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.Templates.mk.resources
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.Templates.ms.resources
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.Templates.nl.resources
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.Templates.nl_BE.resources
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.Templates.pt.resources
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.Templates.ru.resources
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.Templates.sv.resources
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.Templates.th.resources
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.Templates.tr.resources
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.Templates.ur.resources
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.Templates.vi.resources
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.Templates.zh_Hans.resources
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.Templates.zh_Hant.resources
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.csproj.GenerateResource.cache
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.csproj.AssemblyReference.cache
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.Templates.my.resources
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\obj\Debug\netcoreapp3.1\FileMergeApp.Templates.km.resources
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\bin\Debug\netcoreapp3.1\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Predrag Janevski\Desktop\FileMergeApp\FileMergeApp\bin\Debug\netcoreapp3.1\Octokit.dll

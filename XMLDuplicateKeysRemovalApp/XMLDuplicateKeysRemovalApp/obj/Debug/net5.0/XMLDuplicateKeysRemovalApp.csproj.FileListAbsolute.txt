@@ -1,0 +1,16 @@
+C:\Users\Predrag Janevski\source\repos\XMLDuplicateKeysRemovalApp\XMLDuplicateKeysRemovalApp\bin\Debug\net5.0\XMLDuplicateKeysRemovalApp.exe
+C:\Users\Predrag Janevski\source\repos\XMLDuplicateKeysRemovalApp\XMLDuplicateKeysRemovalApp\bin\Debug\net5.0\XMLDuplicateKeysRemovalApp.deps.json
+C:\Users\Predrag Janevski\source\repos\XMLDuplicateKeysRemovalApp\XMLDuplicateKeysRemovalApp\bin\Debug\net5.0\XMLDuplicateKeysRemovalApp.runtimeconfig.json
+C:\Users\Predrag Janevski\source\repos\XMLDuplicateKeysRemovalApp\XMLDuplicateKeysRemovalApp\bin\Debug\net5.0\XMLDuplicateKeysRemovalApp.runtimeconfig.dev.json
+C:\Users\Predrag Janevski\source\repos\XMLDuplicateKeysRemovalApp\XMLDuplicateKeysRemovalApp\bin\Debug\net5.0\XMLDuplicateKeysRemovalApp.dll
+C:\Users\Predrag Janevski\source\repos\XMLDuplicateKeysRemovalApp\XMLDuplicateKeysRemovalApp\bin\Debug\net5.0\ref\XMLDuplicateKeysRemovalApp.dll
+C:\Users\Predrag Janevski\source\repos\XMLDuplicateKeysRemovalApp\XMLDuplicateKeysRemovalApp\bin\Debug\net5.0\XMLDuplicateKeysRemovalApp.pdb
+C:\Users\Predrag Janevski\source\repos\XMLDuplicateKeysRemovalApp\XMLDuplicateKeysRemovalApp\obj\Debug\net5.0\XMLDuplicateKeysRemovalApp.csproj.AssemblyReference.cache
+C:\Users\Predrag Janevski\source\repos\XMLDuplicateKeysRemovalApp\XMLDuplicateKeysRemovalApp\obj\Debug\net5.0\XMLDuplicateKeysRemovalApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Predrag Janevski\source\repos\XMLDuplicateKeysRemovalApp\XMLDuplicateKeysRemovalApp\obj\Debug\net5.0\XMLDuplicateKeysRemovalApp.AssemblyInfoInputs.cache
+C:\Users\Predrag Janevski\source\repos\XMLDuplicateKeysRemovalApp\XMLDuplicateKeysRemovalApp\obj\Debug\net5.0\XMLDuplicateKeysRemovalApp.AssemblyInfo.cs
+C:\Users\Predrag Janevski\source\repos\XMLDuplicateKeysRemovalApp\XMLDuplicateKeysRemovalApp\obj\Debug\net5.0\XMLDuplicateKeysRemovalApp.csproj.CoreCompileInputs.cache
+C:\Users\Predrag Janevski\source\repos\XMLDuplicateKeysRemovalApp\XMLDuplicateKeysRemovalApp\obj\Debug\net5.0\XMLDuplicateKeysRemovalApp.dll
+C:\Users\Predrag Janevski\source\repos\XMLDuplicateKeysRemovalApp\XMLDuplicateKeysRemovalApp\obj\Debug\net5.0\ref\XMLDuplicateKeysRemovalApp.dll
+C:\Users\Predrag Janevski\source\repos\XMLDuplicateKeysRemovalApp\XMLDuplicateKeysRemovalApp\obj\Debug\net5.0\XMLDuplicateKeysRemovalApp.pdb
+C:\Users\Predrag Janevski\source\repos\XMLDuplicateKeysRemovalApp\XMLDuplicateKeysRemovalApp\obj\Debug\net5.0\XMLDuplicateKeysRemovalApp.genruntimeconfig.cache

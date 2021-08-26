@@ -1,0 +1,13 @@
+C:\Users\Predrag Janevski\source\repos\DirectoryIteration\DirectoryIteration\bin\Debug\netcoreapp3.1\DirectoryIteration.exe
+C:\Users\Predrag Janevski\source\repos\DirectoryIteration\DirectoryIteration\bin\Debug\netcoreapp3.1\DirectoryIteration.deps.json
+C:\Users\Predrag Janevski\source\repos\DirectoryIteration\DirectoryIteration\bin\Debug\netcoreapp3.1\DirectoryIteration.runtimeconfig.json
+C:\Users\Predrag Janevski\source\repos\DirectoryIteration\DirectoryIteration\bin\Debug\netcoreapp3.1\DirectoryIteration.runtimeconfig.dev.json
+C:\Users\Predrag Janevski\source\repos\DirectoryIteration\DirectoryIteration\bin\Debug\netcoreapp3.1\DirectoryIteration.dll
+C:\Users\Predrag Janevski\source\repos\DirectoryIteration\DirectoryIteration\bin\Debug\netcoreapp3.1\DirectoryIteration.pdb
+C:\Users\Predrag Janevski\source\repos\DirectoryIteration\DirectoryIteration\obj\Debug\netcoreapp3.1\DirectoryIteration.AssemblyInfoInputs.cache
+C:\Users\Predrag Janevski\source\repos\DirectoryIteration\DirectoryIteration\obj\Debug\netcoreapp3.1\DirectoryIteration.AssemblyInfo.cs
+C:\Users\Predrag Janevski\source\repos\DirectoryIteration\DirectoryIteration\obj\Debug\netcoreapp3.1\DirectoryIteration.csproj.CoreCompileInputs.cache
+C:\Users\Predrag Janevski\source\repos\DirectoryIteration\DirectoryIteration\obj\Debug\netcoreapp3.1\DirectoryIteration.dll
+C:\Users\Predrag Janevski\source\repos\DirectoryIteration\DirectoryIteration\obj\Debug\netcoreapp3.1\DirectoryIteration.pdb
+C:\Users\Predrag Janevski\source\repos\DirectoryIteration\DirectoryIteration\obj\Debug\netcoreapp3.1\DirectoryIteration.genruntimeconfig.cache
+C:\Users\Predrag Janevski\source\repos\DirectoryIteration\DirectoryIteration\obj\Debug\netcoreapp3.1\DirectoryIteration.csproj.AssemblyReference.cache
